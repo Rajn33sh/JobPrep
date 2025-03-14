@@ -18,22 +18,6 @@ Logout System: Users can safely log out after playing quizzes.
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/quiz-game.git
-
-Navigate to the project directory:
-
-cd quiz-game
-
-Compile the code using a C++ compiler:
-
-g++ -o quiz_game main.cpp -std=c++11
-
-Run the executable:
-
-./quiz_game
-
 How to Use
 
 Run the program and choose Login or Signup.
