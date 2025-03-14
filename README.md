@@ -15,33 +15,3 @@ Quiz System: Each language has multiple quizzes to attempt.
 Leaderboard: Users can view past scores.
 
 Logout System: Users can safely log out after playing quizzes.
-
-Installation
-
-How to Use
-
-Run the program and choose Login or Signup.
-
-Select a programming language from the menu.
-
-Pick a quiz and start answering the questions.
-
-View your past scores in the leaderboard.
-
-Logout when finished.
-
-File Structure
-
-main.cpp - Contains the core logic of the quiz game.
-
-users.txt - Stores user credentials.
-
-leaderboard.txt - Stores user scores.
-
-Future Enhancements
-
-Add more programming languages and quizzes.
-
-Implement a time limit for answering questions.
-
-Improve UI with a graphical interface.
